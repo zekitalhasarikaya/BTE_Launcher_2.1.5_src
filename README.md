@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1MT4q71fQiBx5G3FwWgXN59q61zBcdEz3/view?usp=share
 Oyun Dosyaları
 https://youtu.be/LmM7NHdpPqc
 
+--------------------------------------------------------------------------------------
 
 [English]
 Unopened Original Project File (I recommend downloading and using this)
