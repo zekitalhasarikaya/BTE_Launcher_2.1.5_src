@@ -11,10 +11,6 @@ BTELauncher_2.1.5
 
 https://drive.google.com/file/d/1MT4q71fQiBx5G3FwWgXN59q61zBcdEz3/view?usp=share_link
 
-Oyun Dosyaları
-
-https://youtu.be/LmM7NHdpPqc
-
 --------------------------------------------------------------------------------------
 
 [English]
@@ -26,7 +22,3 @@ https://drive.google.com/file/d/18XIkr2CWSBc4WHlJnerI4eaBIfI_pAOt/view?usp=share
 BTELauncher_2.1.5
 
 https://drive.google.com/file/d/1MT4q71fQiBx5G3FwWgXN59q61zBcdEz3/view?usp=share_link
-
-Game Files
-
-https://youtu.be/LmM7NHdpPqc
